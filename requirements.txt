@@ -20,7 +20,7 @@ distro==1.4.0
 Django==4.0.1
 django-braces==1.14.0
 django-cors-headers==3.11.0
-django-elasticsearch-dsl==7.2.2
+django-elasticsearch-dsl==7.3
 django-environ==0.4.5
 django-graphql-jwt==0.3.4
 django-prometheus==2.2.0
